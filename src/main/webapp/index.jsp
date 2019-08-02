@@ -82,9 +82,9 @@ button:hover {
 }
 </style>
 <body>
-
+<h1>This application has been created to understand CICD</h1>
 <form id="regForm" action="/action_page.php">
-  <h1>Register:</h1>
+  <h1>SignUp:</h1>
   <!-- One "tab" for each step in the form: -->
   <div class="tab">Name:
     <p><input placeholder="First name..." oninput="this.className = ''" name="fname"></p>
