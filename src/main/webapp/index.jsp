@@ -77,8 +77,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </head>
 <body>
 
-<h2>Continuous Integration & Continuous Development</h2>
-<p>This application has been developed to understand CICD concepts</p>
+<h2><center><u>Continuous Integration & Continuous Development</u>></center></h2>
+<p><center>This application has been developed to understand CICD concepts</center></p>
 
 
 <button class="open-button" onclick="openForm()">Open Form</button>
