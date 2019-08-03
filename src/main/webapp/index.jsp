@@ -82,7 +82,7 @@ button:hover {
 }
 </style>
 <body>
-<h1><u>The application Version v3 created to understand CICD</u></h1>
+<h1><u>The application Version v4 created to understand CICD</u></h1>
 <form id="regForm" action="/action_page.php">
   <h1>SignUp:</h1>
   <!-- One "tab" for each step in the form: -->
